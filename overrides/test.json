@@ -1,6 +1,0 @@
-{
-  "$schema":"../schemas/subject-override.json",
-  "id": "test",
-  "updatedAt": 0,
-  "data": []
-}
