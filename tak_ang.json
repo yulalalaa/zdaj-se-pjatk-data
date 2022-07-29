@@ -1,0 +1,3308 @@
+{
+  "$schema":"schemas/subject.json",
+  "title": "Technika i Architekture Komputerów (TAK) [ENG]",
+  "id": "tak_ang",
+  "data": [
+    {
+      "question": "<p>Time sharing is a technique</p>",
+      "id": 3042,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p>Enabling data transfer is given time slots</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p>Allowing a computer to speed up the computations</p>",
+          "correct": false
+        },
+        {
+          "answer": "<p>Enabling the execution of many processors on one processors</p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "In order to add two floating-point numbers:",
+      "id": 2897,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "The result depends on which number we denormalize",
+          "correct": false
+        },
+        {
+          "answer": "When adding two negative numbers, we will get a positive one",
+          "correct": false
+        },
+        {
+          "answer": "Obtain the same result as one of the arguments, even if none of them is 0",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "OCR is a kind of software we use for:",
+      "id": 2898,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Transfering images to text files&nbsp;",
+          "correct": true
+        },
+        {
+          "answer": "Wrong",
+          "correct": false
+        },
+        {
+          "answer": "Wrong",
+          "correct": false
+        },
+        {
+          "answer": "Wrong",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Data transfer from hard disk:",
+      "id": 2899,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "always involves buffers;",
+          "correct": true
+        },
+        {
+          "answer": "is much slower than data transfer from RAM to the central processor;",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Al Chwarizmi</span>",
+      "id": 2678,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">was writing the first computer programs</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">was making a living out of studies</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">wrote the solutions of mathematical problems in an algorithmic way</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">is the creator of the Arabic numerical system</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p><span lang=\"EN-US\">Creators of mechanical calculators were</span></p>",
+      "id": 2677,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">Gottfried Wilhelm Leibniz</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">Blaise Pascal</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">Wilhelm Schickard</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "chess won a game to human",
+      "id": 3066,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10 years ago",
+          "correct": false
+        },
+        {
+          "answer": "NEVER",
+          "correct": false
+        },
+        {
+          "answer": "5 Years Ago",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "chess won a game to human",
+      "id": 3067,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "10 years ago",
+          "correct": false
+        },
+        {
+          "answer": "NEVER",
+          "correct": false
+        },
+        {
+          "answer": "5 Years Ago",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The following equations are correct in the floating-point system",
+      "id": 2922,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "110 0101 + 111 0101 = 000 0100",
+          "correct": true
+        },
+        {
+          "answer": "010 0100 + 010 0100 = 011 0100",
+          "correct": true
+        },
+        {
+          "answer": "101 0101 + 110 0101 = 111 0100<p></p>\n<p>&nbsp;</p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(0011) is a &nbsp;basic period of&nbsp;a&nbsp;number :",
+      "id": 2923,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "6/7",
+          "correct": false
+        },
+        {
+          "answer": "4/5",
+          "correct": true
+        },
+        {
+          "answer": "2/7",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "To represent in 2-'s-complement system an integer with an absolute value more than 1.000.000.000, how many bytes do we need exactly?",
+      "id": 2924,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "30",
+          "correct": false
+        },
+        {
+          "answer": "16",
+          "correct": false
+        },
+        {
+          "answer": "4",
+          "correct": true
+        },
+        {
+          "answer": "6",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "To determine the average complexity of an algorithm we need to evaluate",
+      "id": 2925,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<div><span>all possible data</span></div>",
+          "correct": true
+        },
+        {
+          "answer": "a specific layout of a random variable",
+          "correct": true
+        },
+        {
+          "answer": "concrete data",
+          "correct": false
+        },
+        {
+          "answer": "all possible to imagine algorithms",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<div><span>To determine the pessimistic complexity of a problem we need to evaluate</span></div>",
+      "id": 2926,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "all possible data",
+          "correct": true
+        },
+        {
+          "answer": "all possible to imagine algorithms",
+          "correct": true
+        },
+        {
+          "answer": "concrete data",
+          "correct": false
+        },
+        {
+          "answer": "specific layout of a random variable",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Adding 1.4 + 8.8 in a floating-point processor we are sure that</span><strong></strong><em></em>",
+      "id": 2927,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "the result will be rounded",
+          "correct": true
+        },
+        {
+          "answer": "all arguments are represented exactly",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">A serial port is</span>",
+      "id": 2679,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">always slower than a parallel port</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">installed in modern notebooks</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">used to connect a keyboard</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The creator of the first computer is considered to be</span>",
+      "id": 2680,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">Konrad Zuse</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">John von Neuman</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">John Backus</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Which one of these equations is true in the floating-point system</span>",
+      "id": 2681,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">111 0111 + 000 1000 = 111 0100</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">111 0111 + 000 0111 = 001 0101</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">001 0101 + 110 0101 = 111 0101</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">(001) is the expansion period of the number</span>",
+      "id": 2682,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1/7",
+          "correct": true
+        },
+        {
+          "answer": "1/5",
+          "correct": false
+        },
+        {
+          "answer": "6/7",
+          "correct": false
+        },
+        {
+          "answer": "2/7",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Which of the following binary strings rounds best the given values in the floating-point system (3bit exponent + 4 of significand)?</span>",
+      "id": 2683,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">100 0111 best rounds up 7/129</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">110 0111 best rounds up 7/33</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">101 0111 best rounds up 1/11</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">CD-R are written once, because</span>",
+      "id": 2684,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">the lasers cause an irreversible fixation of magnetic domains</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">the surface of the disc is subjected to irreversible thermal damage</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>bits are so densly encapsulated that changing one of them would have caused a cascade of further changes</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">the interference of newly-written bits with the old ones would have caused too mcuh noise (hum?)</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The cylinder count on a disc is</span>",
+      "id": 2685,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">dependable of the formatting options</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">twice as large as the count of the plates</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">as same as the count of the tracks of the surface of a plate</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">To connect a computer to a network you need a</span>",
+      "id": 2686,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">stable connection</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">modem</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">cable</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">network card</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The packet’s route is decided by</span>",
+      "id": 2687,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">the operator</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">the router</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">the packet itself</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The Turning test is</span>",
+      "id": 2688,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">one of the instructions of the Turning machine</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">verification of a computer’s intelligence</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">a type of a logical condition</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">verification of a person’s intelligence</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Artificial intelligence achieved significant successes in the field of</span>",
+      "id": 2689,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">automatic translation</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">facial recognition</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">help in decision making</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">game programming</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Polish diacritic symbols are coded in Windows as</span>",
+      "id": 2690,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">ASCII codes</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">bytes with their first bit being 1</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">two bytes</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">1 MB is exactly</span>",
+      "id": 2691,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">10^6 bytes</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">2^30 bytes</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">2^33 bits</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Critical path method is used to</span>",
+      "id": 2692,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">find the shortest path in a graph</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">define the minimal time needed to end the work of a concurrent system</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">detect errors in logical circuits by tracking down the area of signal disruption</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">What happens during a linking of a program (program linking?) is</span>",
+      "id": 2693,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">determining the actual address based on the relative addresses calculated for complicated modules&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">merging procedures found in the modules in one library</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">specification of the meaning of identificators found in different modules&nbsp;</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">During the module compilation</span>",
+      "id": 2694,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">the meaning of every identificators found in the module is specified</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">relative addresses of allocation of every variable declared in the module are determined&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">object code is created</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Pressing a key on a keyboard always sends</span>",
+      "id": 2695,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">8 bits</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">16 bits</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">different sequences of bites relative to the chosen font</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">For NP-completeness problems</span>",
+      "id": 2696,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">there are no known polynomial algorithms</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">is known, that there are no polynomial algorithms</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">it is possible in polynomial time to check if the object is a solution for the given problem&nbsp;</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Every algorithmic problem</span>",
+      "id": 2697,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">can be solved, if we have large enough memory and enough time</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">for which there is a solution, the solution exists for every practical data</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">which complexity is (2^n) is practically impossible to solve for modern computers for data n&gt;100</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The fundamental problem of Charles Babbage was</span>",
+      "id": 2698,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">lack of money</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">lack of technology and engineering advancement</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">a woman</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">lack of inventions</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The idea of using punch cards was first realized by</span>",
+      "id": 2699,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">Jacques de Vaucanson</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">Herman Hollerith</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">Charles Babbage</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The floating-point number 110 1000 has</span>",
+      "id": 2700,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">a negative value</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">an absolute value less than 1/2</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">an absolute value less than 1 (because it's -1/4)</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p class=\"Standard\"><span lang=\"EN-US\">Are the following equations true in the floating-point system?</span></p>",
+      "id": 2701,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">111 0111 + 000 0111 = 001 0101</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">110 0111 + 110 0100 = 111 0110</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">101 0101 + 110 0100 = 111 0100</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">(101) is the expansion period of the number</span>",
+      "id": 2702,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">1/5 0.(0011)</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">1/10 0.0(0011)</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">4/5 0.(1100)</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">In 8-bit code the signed number representation</span>",
+      "id": 2703,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">11111111 represents value -1</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">10010000 represents value -16</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">11110000 represents value -112</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Cylinders on a hard drive are</span>",
+      "id": 2704,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">sets of routes created by the producer on which bits are written</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">equally distributed from the middle surface fragments on different plates which were created during formatting</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">spirally distributed surface fragments above which heads are moving</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The protocol thanks to which the whole Internet works is called</span>",
+      "id": 2705,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">http</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">ftp</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">telnet</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">TCP/IP</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The protocol allowing for a safe file transfer is called</span>",
+      "id": 2706,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">ftp</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">http</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">ssh</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">scp</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The speed of reading data from a hard drive may depend upon</span>",
+      "id": 2707,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">the speed of the disc’s rotation</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">the alignment of data on the surface of the disc</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">the location the hard drive is connected to on the motherboard</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">matching the frequency of refreshing the memory with the speed of data transmission forced by the controller</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The Turing machine is</span>",
+      "id": 2708,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">an abstraction, never made a reality</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">a prototype of modern computers, partly made mechanically</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">able to solve any problem a modern computer is able to solve</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The only peripheral attached to a computer sometimes is</span>",
+      "id": 2709,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">a bar code scanner</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">a keyboard</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">a mouse</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The number 3/2004 in binary system has</span>",
+      "id": 2710,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">an infinite expansion</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">a periodic expansion of the length less than 1111</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">a periodic expansion of the length equal 1111</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Floating-point addition is</span>",
+      "id": 2711,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">exact</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">commutative</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">distributive</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">(001) is the periodic expansion of the number</span>",
+      "id": 2712,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">1/7</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">1/5</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">1/10</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">6/7</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The standard RAM memory is realized in</span>",
+      "id": 2713,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">magnetic technology</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">electromagnetic technology</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">electrodynamic technology</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">optical technology</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">In 8-bit code the signed number representation</span>",
+      "id": 2714,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">11111111 represents value 0</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">11110000 represents value -16</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">11110000 represents value -15</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">(0011) is the (basic?) periodic expansion of the number</span>",
+      "id": 2715,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">1/5</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">1/10, because 0.0(0011)</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">2/7</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">To avoid the interception of the credit card number in online transactions</span>",
+      "id": 2716,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">passwords are used</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">encryption is used</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">ppp connections are used</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">biometric parameters of the sender are used</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The oldest known and used to this day common algorithms originate from</span>",
+      "id": 2717,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">Ancient history (antiquity)</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">Middle Ages</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>XVIII century</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Buffers are used in transmitting data from the hard drive</span>",
+      "id": 2718,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">only when the user clearly requests it</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">only when it can speed up the transmission</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">always</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Of different the ways of connecting to a network the least secure connection is</span>",
+      "id": 2719,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">via modem</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">via cable TV</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">ISDN</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">DSL</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Which of the following binary strings rounds best the given values in the floating-point system (3bit exponent + 4 of significand)?</span>",
+      "id": 2720,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">100 0111 best rounds 7/129</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">110 0111 best rounds 7/33</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">100 0110 best rounds 1/23</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">1 TB is exactly</span>",
+      "id": 2721,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">10^12 bytes</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">2^40 bytes</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">2^43 bits</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Packets have the size of</span>",
+      "id": 2722,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">dozens of bytes</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">hundreds of bytes</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">hundreds of kilobytes</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">What is the least amount of bits needed to represent all integers with absolute value less than a billion in two’s complement?</span>",
+      "id": 2723,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">30</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">31</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">16</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">14</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The usage of floating-point system compared to fixed-point system</span>",
+      "id": 2724,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">increases the number of possible representable values</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">increases the accuracy in the whole interval of representability</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">increases the range of representability</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The Eucliedian algorithm is used for</span>",
+      "id": 2725,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">finding prime numbers</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">finding the greatest common divisor</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">finding the smallest common divisor</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Operations on bits</span>",
+      "id": 2726,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">are executed by the processor in order, never simultaneously</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">are only four: NOT, OR, XOR and AND</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">can be assembled creating more complex logical schemes</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">In the floating-point system</span>",
+      "id": 2727,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">every value ranging -8 to 7 can be represented, though some with an error</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">the number of the values which are represented without an error is finite</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">every integer of the interval of representability are represent without error</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">In the floating-point system in which the exponent is represented by a single byte and the significand by 5 bytes</span>",
+      "id": 2728,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">every value ranging -8 to 7 can be represented, though some with an error</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">the number of the values which are represented without an error is finite</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">every integer of the interval of representability are represent without error</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The basic job of a network card is</span>",
+      "id": 2729,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">providing a firewall</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">amplifying the signal</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">conversion of data formats between the computer and the network</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">virus protection</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Registers are</span>",
+      "id": 2730,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">very fast carry-on memory of a processor</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">sets of indexes in databases</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">mediate memory used in data transmission to the hard drive</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">areas of the disc on which Windows’ parameters are kept</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">On the cover of the polish edition of Brookshear’s workbook there is</span>",
+      "id": 2731,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">a computer</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">a key</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">an image of a CPU</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">a schema of computer network</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Open network is a network</span>",
+      "id": 2732,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">which is defenseless to attacks</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">which is not password protected&nbsp;</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">which connects computers within an establishment</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">to which users can connect on a public use basis</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Drivers are</span>",
+      "id": 2733,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">devices thanks to which we assume a control over programs</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">programs thanks to which we communicate to devices connected to the bus</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">logical systems forwarding signals</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Adding 1.4 + 8.8 in a floating-point processor we are sure that</span>",
+      "id": 2734,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">the arguments are represented exactly</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">the result will be exact</span>",
+          "correct": false
+        },
+        {
+          "answer": "Odpowi<span>the result wouldn’t have to be rounded</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Sending a password in a remote login process</span>",
+      "id": 2735,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">can be safe if we use some of the network services</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">is not used in serious practices, such as bank account logins</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">is always preceded by an encryption</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">The speed of reading data from the hard drive is mostly dependent on</span>",
+      "id": 2736,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">the speed of the bus</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">processor’s clock frequency</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">its contents and their mean of having been distributed</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span lang=\"EN-US\">Data on CD discs is written</span>",
+      "id": 2737,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span lang=\"EN-US\">concentrically</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span lang=\"EN-US\">spirally</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span lang=\"EN-US\">physically in the same order it was sent</span>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "&nbsp;To connect a computer to an analogous telephone line you need a",
+      "id": 2740,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "network card",
+          "correct": false
+        },
+        {
+          "answer": "stable connections",
+          "correct": false
+        },
+        {
+          "answer": "USB port",
+          "correct": false
+        },
+        {
+          "answer": "modem",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "High level programming languages allow for writing code&nbsp;",
+      "id": 2741,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "straightaway in the processor’s language, which after compilation is ready for execution",
+          "correct": false
+        },
+        {
+          "answer": "which after compilation is ready for execution",
+          "correct": false
+        },
+        {
+          "answer": "which after compilation and consolidation is ready for execution",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Multiprocessing",
+      "id": 2742,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "is as same as having multiple processors",
+          "correct": false
+        },
+        {
+          "answer": "is not supported by some operating systems",
+          "correct": true
+        },
+        {
+          "answer": "is supported by Windows 95",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Assemblers&nbsp;",
+      "id": 2743,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "allowed for creating symbolic addresses",
+          "correct": true
+        },
+        {
+          "answer": "were created in 1950s",
+          "correct": true
+        },
+        {
+          "answer": "are used to this day",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The speed of the hard drive is dependent on",
+      "id": 2744,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "the angular velocity of the plates",
+          "correct": true
+        },
+        {
+          "answer": "the number of the plates",
+          "correct": false
+        },
+        {
+          "answer": "the number of the cylinders",
+          "correct": false
+        },
+        {
+          "answer": "the speed of the heads",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Undecidable problems",
+      "id": 2745,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "cannot be algorithmically solved",
+          "correct": true
+        },
+        {
+          "answer": "do not exist",
+          "correct": false
+        },
+        {
+          "answer": "are problems for which there are no solutions but it is possible that there will be",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "When adding two floating-point numbers, what could happen is that",
+      "id": 2746,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "the result will be equal to one of them, regardless that the second one isn’t 0",
+          "correct": false
+        },
+        {
+          "answer": "the result depends on which number we denormalize",
+          "correct": false
+        },
+        {
+          "answer": "when adding two negative numbers, we will get a positive one",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Division of time is a technique",
+      "id": 2747,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "allowing for data transfer in the selected time spans in the network",
+          "correct": false
+        },
+        {
+          "answer": "allowing for execution of multiple processes simultaneously by a single processor",
+          "correct": true
+        },
+        {
+          "answer": "allowing the computer to speed up the calculations",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Each byte of ASCII text",
+      "id": 2748,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "is interpreted identically by every computer system, as long as its first bit is 0 and its value is over 31",
+          "correct": true
+        },
+        {
+          "answer": "encodes some letter",
+          "correct": false
+        },
+        {
+          "answer": "has 1 at the beginning",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Abraham Stern&nbsp;",
+      "id": 2749,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "built a calculator, which automatically calculated roots",
+          "correct": true
+        },
+        {
+          "answer": "was a member of Society of Friends of Learning",
+          "correct": true
+        },
+        {
+          "answer": "was a watchmaker",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "OCR is software with which",
+      "id": 2750,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "we can recognize handwriting",
+          "correct": false
+        },
+        {
+          "answer": "we can recognize signatures",
+          "correct": false
+        },
+        {
+          "answer": "we prepare text documents for printing",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Memory on a hard drive is realized in",
+      "id": 2751,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "magnetic technology",
+          "correct": true
+        },
+        {
+          "answer": "laser technology",
+          "correct": false
+        },
+        {
+          "answer": "optical technology",
+          "correct": false
+        },
+        {
+          "answer": "electrodynamic technology",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "In reversed signed number representation",
+      "id": 2752,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "every number has a non-ambiguous representation",
+          "correct": false
+        },
+        {
+          "answer": "to create a reverse value we reverse only the first bit",
+          "correct": false
+        },
+        {
+          "answer": "there are more negative values than positive",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Are the following equations true in the floating-point system?",
+      "id": 2753,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "100 0100 + 100 0101 = 101 0101",
+          "correct": true
+        },
+        {
+          "answer": "111 0111 + 000 0111 = 001 0101",
+          "correct": true
+        },
+        {
+          "answer": "110 0111 + 110 0100 = 110 0111",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The idea of using punch cards was first realized by",
+      "id": 2754,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Jacques de Vaucanson",
+          "correct": true
+        },
+        {
+          "answer": "Herman Hollerith",
+          "correct": false
+        },
+        {
+          "answer": "Charles Babbage",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Hiding the 1/2 bit in floating-point system is",
+      "id": 2755,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "a result of certain problems with representing 0 – it’s difficult to differentiate it from 1/2",
+          "correct": true
+        },
+        {
+          "answer": "used to double the size of the range of representability",
+          "correct": false
+        },
+        {
+          "answer": "common practice in most commercial realizations of floating-point arithmetic",
+          "correct": true
+        },
+        {
+          "answer": "caused by the need of obtaining an additional bit of precision",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The minimax strategy is",
+      "id": 2756,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "an algorithm used to optimize data flow in networks",
+          "correct": false
+        },
+        {
+          "answer": "a method of rating positions in two player games",
+          "correct": true
+        },
+        {
+          "answer": "a variant of the alpha-beta strategy",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Protection from viewing the credit card number by third parties during online transmission is achieved by",
+      "id": 2757,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "encrypting with a public key",
+          "correct": true
+        },
+        {
+          "answer": "using single-use passwords",
+          "correct": false
+        },
+        {
+          "answer": "biomedical parameters of the receiver",
+          "correct": false
+        },
+        {
+          "answer": "using multi-use passwords",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "C. A. R. Hoare is the author of",
+      "id": 2758,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "pointer concept",
+          "correct": true
+        },
+        {
+          "answer": "logic of programs",
+          "correct": true
+        },
+        {
+          "answer": "instructions of choice",
+          "correct": true
+        },
+        {
+          "answer": "quicksort algorithm",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Following sectors on a single track of a typical hard drive contain",
+      "id": 2759,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "data in the order it was written",
+          "correct": false
+        },
+        {
+          "answer": "data from a single file, which must be located next to each other",
+          "correct": false
+        },
+        {
+          "answer": "data usually from different files located in such a way that reading it would be most fluid",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Having only a single unit sized line segment and using only compass and ruler we can",
+      "id": 2760,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "calculate the cubic root of two",
+          "correct": false
+        },
+        {
+          "answer": "multiply any two numbers",
+          "correct": true
+        },
+        {
+          "answer": "calculate pi",
+          "correct": false
+        },
+        {
+          "answer": "calculate a root of a number",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Increasing the frequency of a clock in a processor is",
+      "id": 2761,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "possible, but can cause it to overheat",
+          "correct": true
+        },
+        {
+          "answer": "possible, but can result in slowing down the computer",
+          "correct": true
+        },
+        {
+          "answer": "impossible, the clock is set once in the production",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "When we use a faster algorithm, doing less calculations on integers",
+      "id": 2762,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "we get a faster an more precise solution",
+          "correct": false
+        },
+        {
+          "answer": "we get a faster solution at the cost of loss of the calculations’ quality",
+          "correct": false
+        },
+        {
+          "answer": "we get the exact same solution, but faster",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Summing up n positive numbers in a floating-point system we would get the best solution",
+      "id": 2763,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "regardless of the order of the additions",
+          "correct": false
+        },
+        {
+          "answer": "adding them from the smallest to the largest",
+          "correct": false
+        },
+        {
+          "answer": "adding them from the largest to the smallest",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The chess machine constructed by Farkas von Kempelen was created",
+      "id": 2764,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "at the turn of XVII and XIX century",
+          "correct": true
+        },
+        {
+          "answer": "in the XX century",
+          "correct": false
+        },
+        {
+          "answer": "in Wiedeń (Polish city)",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Cathode monitors",
+      "id": 2765,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "can be used everywhere there, where liquid crystal monitors can be used",
+          "correct": false
+        },
+        {
+          "answer": "in some cases cannot be replaced with liquid crystal monitors",
+          "correct": true
+        },
+        {
+          "answer": "are healthier to use than liquid crystal monitors",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "To connect a computer to a network via a digital telephone line you need",
+      "id": 2766,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "a USB port",
+          "correct": false
+        },
+        {
+          "answer": "a network card",
+          "correct": false
+        },
+        {
+          "answer": "a stable connection",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "A CD-RW disc allows for",
+      "id": 2767,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "deletion of all data and writing from scratch",
+          "correct": true
+        },
+        {
+          "answer": "writing new data in an empty space left by a removed file",
+          "correct": false
+        },
+        {
+          "answer": "writing the data at the end, if it is not too full yet",
+          "correct": true
+        },
+        {
+          "answer": "physical removal of some of the written data",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "When using a faster algorithm, doing less floating-point calculations",
+      "id": 2768,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "we get the solution faster, but we loose some precision",
+          "correct": false
+        },
+        {
+          "answer": "we get the solution faster and we usually get more precision",
+          "correct": true
+        },
+        {
+          "answer": "we get the exact same solution, but a bit faster",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The number of tracks on a disc is",
+      "id": 2769,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "the same as the number of the cylinders",
+          "correct": true
+        },
+        {
+          "answer": "set by the manufacturer",
+          "correct": true
+        },
+        {
+          "answer": "relative to the formatting options",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Using the fixed-point system compared to the floating-point one",
+      "id": 2770,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "increases the number of representable values",
+          "correct": false
+        },
+        {
+          "answer": "increases the range of representable values",
+          "correct": false
+        },
+        {
+          "answer": "increases the precision in the whole range of representability",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "A parallel port is",
+      "id": 2771,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "used to connect a keyboard",
+          "correct": false
+        },
+        {
+          "answer": "inadequate to work with a printer",
+          "correct": false
+        },
+        {
+          "answer": "installed in modern notebooks",
+          "correct": false
+        },
+        {
+          "answer": "always slower than a serial port",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "&nbsp;To determine the pessimistic complexity of an algorithm we relate it to&nbsp;",
+      "id": 2772,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "all possible to imagine algorithms",
+          "correct": false
+        },
+        {
+          "answer": "all possible data",
+          "correct": true
+        },
+        {
+          "answer": "specific data",
+          "correct": false
+        },
+        {
+          "answer": "specific layout of some random variable",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "To a bus you connect",
+      "id": 2773,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "a ventilator",
+          "correct": false
+        },
+        {
+          "answer": "a hard drive",
+          "correct": true
+        },
+        {
+          "answer": "the power cable",
+          "correct": false
+        },
+        {
+          "answer": "memory",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Dominating operations in an algorithm are such that",
+      "id": 2774,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "for any data no operation is executed more times if we consider only one order of magnitude",
+          "correct": false
+        },
+        {
+          "answer": "executing one of them takes longer than all other operations",
+          "correct": false
+        },
+        {
+          "answer": "they execute the fastest for any given data",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "In the floating-point system in which the exponent is represented by a single byte and the significand by 5 bytes",
+      "id": 2775,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "every value ranging -1000 to 1000 can be represented, though some with an error",
+          "correct": true
+        },
+        {
+          "answer": "every integer of the range of representability is represented without error",
+          "correct": false
+        },
+        {
+          "answer": "the number of the values which are represented without an error is finite",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "A flip-flop (latch) is used for",
+      "id": 2776,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "storing data",
+          "correct": true
+        },
+        {
+          "answer": "data conversion",
+          "correct": false
+        },
+        {
+          "answer": "forwarding the traffic on a bus",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The alpha-beta strategy is",
+      "id": 2777,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "used in OCR programs",
+          "correct": false
+        },
+        {
+          "answer": "a popular method to determine the strength of a turn in 2-player games",
+          "correct": true
+        },
+        {
+          "answer": "a heuristic used to solve NP-completeness problems",
+          "correct": false
+        },
+        {
+          "answer": "a variant of minimax strategy",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Multithreading is a notion, which",
+      "id": 2778,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "appears only in multiprocessor architectures",
+          "correct": false
+        },
+        {
+          "answer": "appears in concepts of concurrent computing",
+          "correct": true
+        },
+        {
+          "answer": "appears in object-oriented programming",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Pessimistic complexity may concern",
+      "id": 2779,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "the amount of memory required to solve an algorithmic problem",
+          "correct": true
+        },
+        {
+          "answer": "time measured in amount of steps of the algorithm’s execution",
+          "correct": true
+        },
+        {
+          "answer": "the degree of complexity of the algorithm",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Fixed-point addition is",
+      "id": 2780,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "distributive",
+          "correct": false
+        },
+        {
+          "answer": "commutative",
+          "correct": true
+        },
+        {
+          "answer": "exact",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "CD-RW discs are written to multiple times",
+      "id": 2781,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "but only in order, you cannot put data in the middle",
+          "correct": true
+        },
+        {
+          "answer": "in such a way that the surface of the disc is subjected to reversible thermal damage",
+          "correct": false
+        },
+        {
+          "answer": "thanks to the lasers causing reversible consolidation of magnetic domains",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "CD-R discs are written a single time because",
+      "id": 2782,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "each parameter change of the surface of the disc is irreversible",
+          "correct": false
+        },
+        {
+          "answer": "the interference of newly-written bits with the old ones would have caused too much noise (hum?)",
+          "correct": false
+        },
+        {
+          "answer": "bits are so densely encapsulated that changing one of them would have caused a cascade of further changes",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "John Backus is famous as the creator of",
+      "id": 2783,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "a transistor",
+          "correct": false
+        },
+        {
+          "answer": "the computer mouse",
+          "correct": false
+        },
+        {
+          "answer": "the IBM 404 computer",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "NP-completeness problems include",
+      "id": 2784,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "boolean satisfiability problems",
+          "correct": true
+        },
+        {
+          "answer": "division of sets into two subsets of the same sum",
+          "correct": true
+        },
+        {
+          "answer": "tautologicality of a boolean problem",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "To determine the pessimistic complexity of an algorithm we relate it to",
+      "id": 2785,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "specific data",
+          "correct": false
+        },
+        {
+          "answer": "all possible to imagine algorithms",
+          "correct": true
+        },
+        {
+          "answer": "specific layout of some random variable",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Relation “Problem A is reducible to problem B” is a",
+      "id": 2786,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "transitive relation",
+          "correct": true
+        },
+        {
+          "answer": "partial order relation",
+          "correct": false
+        },
+        {
+          "answer": "equivalence relation",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Who shares the public key?",
+      "id": 2787,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "The sender",
+          "correct": true
+        },
+        {
+          "answer": "The sender and the receiver",
+          "correct": false
+        },
+        {
+          "answer": "The receiver",
+          "correct": false
+        },
+        {
+          "answer": "The router",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Which image is the most common in the polish edition of Brookshear’s workbook?",
+      "id": 2788,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "A key",
+          "correct": true
+        },
+        {
+          "answer": "A house",
+          "correct": false
+        },
+        {
+          "answer": "A computer",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Computer programs",
+      "id": 2789,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "must contain step after step respectively executed instructions",
+          "correct": true
+        },
+        {
+          "answer": "can be written in a natural language",
+          "correct": false
+        },
+        {
+          "answer": "can be edited in any text editor",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(010) is a periodic expansion of the number",
+      "id": 2790,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1/5",
+          "correct": false
+        },
+        {
+          "answer": "2/7",
+          "correct": true
+        },
+        {
+          "answer": "1/10",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The ENIAC computer created in 1945",
+      "id": 2791,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "was made in Princestone",
+          "correct": false
+        },
+        {
+          "answer": "had a method of recursion",
+          "correct": false
+        },
+        {
+          "answer": "weighted over 27 tons",
+          "correct": true
+        },
+        {
+          "answer": "was based on FORTRAN",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Charles Babbage created the difference engine to",
+      "id": 2792,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "impress lady Lovelace",
+          "correct": false
+        },
+        {
+          "answer": "ably add and subtract mechanically",
+          "correct": false
+        },
+        {
+          "answer": "be able to find the solution to any function, not only polynomial",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Check the correctness of the following equations in 8-bit complement code",
+      "id": 2793,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1000 0000 + 0000 0001 = 10000 0001",
+          "correct": true
+        },
+        {
+          "answer": "1111 0000 + 1000 1111 = 1111 1111",
+          "correct": false
+        },
+        {
+          "answer": "0111 1111 + 10000 0000 = 1111 1111",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "In the floating-point system in which the exponent is represented by a single byte and the significand by 16 bytes",
+      "id": 2794,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "every value ranging -8 to 7 can be represented, though some with an error",
+          "correct": true
+        },
+        {
+          "answer": "every integer of the range of representability is represented without error",
+          "correct": true
+        },
+        {
+          "answer": "the number of the values which are represented without an error is finite",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The creators of mechanical calculators were",
+      "id": 2795,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Wilhelm Schickard",
+          "correct": true
+        },
+        {
+          "answer": "Blaise Pascal",
+          "correct": true
+        },
+        {
+          "answer": "Heron",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The following equations in complement code are correct for 8-bit integers",
+      "id": 2796,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1111 1111 + 0000 0001 = 0000 0000",
+          "correct": true
+        },
+        {
+          "answer": "1000 0000 + 1000 0000 = 0000 0000",
+          "correct": false
+        },
+        {
+          "answer": "1010 1010 + 1010 1010 = 1101 0100",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "To determine the pessimistic complexity of an algorithm we relate it to",
+      "id": 2797,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "all possible data",
+          "correct": true
+        },
+        {
+          "answer": "specific layout of some random variable",
+          "correct": true
+        },
+        {
+          "answer": "all possible to imagine algorithms",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(010) is the periodic expansion of the number",
+      "id": 2798,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "1/5",
+          "correct": false
+        },
+        {
+          "answer": "2/7",
+          "correct": true
+        },
+        {
+          "answer": "1/10",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "(0110) is the basic period of",
+      "id": 2799,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "2/5",
+          "correct": false
+        },
+        {
+          "answer": "1/10",
+          "correct": true
+        },
+        {
+          "answer": "4/5",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "To avoid the interception of the credit card number in online transactions",
+      "id": 2800,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "ppp connections are used",
+          "correct": true
+        },
+        {
+          "answer": "single-use passwords are used",
+          "correct": false
+        },
+        {
+          "answer": "multi-use passwords are used",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Compilation of source code is",
+      "id": 2801,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "as same as its interpretation",
+          "correct": false
+        },
+        {
+          "answer": "for example translating a program written in assembly to a program expressed in machine language",
+          "correct": true
+        },
+        {
+          "answer": "a process which guarantees the possibility to execute a program compiled on the computer A, on a given computer B, regardless of the program compliance of both computers",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The undecidability of halting problem for Turing machines implies that",
+      "id": 2803,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "you must use your brain to solve the problem if the program halts for given data",
+          "correct": false
+        },
+        {
+          "answer": "each problem to which the halting problem is reduced is undecidable",
+          "correct": true
+        },
+        {
+          "answer": "each problem that is reduced to the halting problem is undecidable",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "AI is known to have solved successfully the problem of",
+      "id": 2804,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Decision support",
+          "correct": true
+        },
+        {
+          "answer": "Automatic translations",
+          "correct": false
+        },
+        {
+          "answer": "Natural language recognition<p></p>\n<p>&nbsp;</p>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "John Backus is known as the inventor of",
+      "id": 2805,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "IBM 404 computer",
+          "correct": false
+        },
+        {
+          "answer": "Transitor",
+          "correct": false
+        },
+        {
+          "answer": "FORTRAN",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Eratostenes sieve",
+      "id": 2806,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "requires additional memory",
+          "correct": true
+        },
+        {
+          "answer": "determines a set of initial prime numbers<p></p>\n<p>&nbsp;</p>",
+          "correct": true
+        },
+        {
+          "answer": "was used to determine the radius of Earth",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Cylinders on hard disk are:",
+      "id": 2900,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "false",
+          "correct": false
+        },
+        {
+          "answer": "false",
+          "correct": false
+        },
+        {
+          "answer": "Equaidistant from the center fragments of disk surface on all the plates;",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>interrupts</p>",
+      "id": 3050,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p>can happen when some physical events like mouse move, takes place</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p>are managed by OS with the help of priority queue</p>",
+          "correct": true
+        },
+        {
+          "answer": "<p>always happened when you plug in or out a device</p>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "AI is better than human in",
+      "id": 3053,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "checkers",
+          "correct": true
+        },
+        {
+          "answer": "chess",
+          "correct": true
+        },
+        {
+          "answer": "go",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The following parts are connected to a bus",
+      "id": 3386,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "RAM",
+          "correct": true
+        },
+        {
+          "answer": "AC cable",
+          "correct": false
+        },
+        {
+          "answer": "HDD",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>Interrupt mechanism</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3483,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p>enables multiprocessing</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "can be run by the program",
+          "correct": true
+        },
+        {
+          "answer": "<p>is part of the operating system</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The Turk - von Kempelen's chess machine",
+      "id": 3484,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "could make moves on the board",
+          "correct": true
+        },
+        {
+          "answer": "<p>had programmed moves according to the rules of chess</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>was the first machine that could make decisions on its own</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The role of the system heap is",
+      "id": 3485,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "possibility to choose the memory fragment to be allocated best with respect to the established criterion",
+          "correct": true
+        },
+        {
+          "answer": "<p>quick response to the query about the existence of a free memory segment of a given length,</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "efficient booking and resoration of free memory",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>Processors use registers for</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3486,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "loop optimization",
+          "correct": true
+        },
+        {
+          "answer": "<p>archivization of obtained results</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>memorizing intermediate results of complex calculations</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "If we represent real numbers in the two's complement 1-byte exponent and 7-bytes mantissa, with one bit hidden, then",
+      "id": 3487,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p>all integers in the range of representability are represented</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "adding a number with an exponent lower by 60 to any number will not change it.",
+          "correct": true
+        },
+        {
+          "answer": "adding a number with an exponent lower by 50 to any number will not change it.",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>Floating point addition</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3488,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "always gives the same result, evem when we add more than two numbers, regardless of the order in which the actions are performed",
+          "correct": false
+        },
+        {
+          "answer": "<p>may require both arguments to be denormalized</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>can return one of the arguments even though neither is zero</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "In one's complement code for integers",
+      "id": 3489,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "we have more negative than positive numbers represented",
+          "correct": false
+        },
+        {
+          "answer": "you can negate any number by negating all bits",
+          "correct": true
+        },
+        {
+          "answer": "there are two representations of zero",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>Virtual memory is a concept that allows</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3490,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p>using cloud computing</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>using more memory than your RAM actually fits</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "<p>use of external storage media to expand the operating memory</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The [start-formula]  Theta [end-formula] notation",
+      "id": 3491,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "simplifies complexity calculation by providing asymptotic upper bound",
+          "correct": true
+        },
+        {
+          "answer": "defines a concrete function from a set of natural numbers into a set of non-negative numbers.",
+          "correct": false
+        },
+        {
+          "answer": "simplifies complexity calculation by providing asymptotic lower bound",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>The first Pascal compiler written by N.Wirth at the beginning of 70's</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3492,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "allowed splitting the generation of code into compilation and linking",
+          "correct": true
+        },
+        {
+          "answer": "<p>cost about 1000 $</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>was written in Pascal</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>The number of disc cylinders is equal to</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3493,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p>The number set at the formatting stage by the user</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "The numbers of paths on one plate side",
+          "correct": true
+        },
+        {
+          "answer": "The number determined by disk manufacturer",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>Are these operations performed correctly in the floating-point system from the lecture?</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3494,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p>111 0111 + 000 1000 = 111 0100</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "011 0111 + 101 0111 = 011 0111",
+          "correct": true
+        },
+        {
+          "answer": "<p>110 0111 + 110 0100 = 111 0110</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>When adding two floating-point numbers we can</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3495,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<p>Obtain the same result as one of the arguments, even if none of them is 0</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "<p>Obtain different results if we add them in different order</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        },
+        {
+          "answer": "<p>Obtain different result if we denormalize the other number</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "The idea to compile Pascal on a non-existing processor",
+      "id": 3496,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "Was never accomplished",
+          "correct": false
+        },
+        {
+          "answer": "Enabled compilation of programs on virtual machine",
+          "correct": true
+        },
+        {
+          "answer": "<p>Was introduced by N.Wirth in order to ease writing Pascal compilers on all types of computers</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<p>Program AlphaZero</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+      "id": 3497,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "used Monte Carlo methods to determine the best moves",
+          "correct": true
+        },
+        {
+          "answer": "<p>used neural networks to self-learn how to play good moves</p>\n<div id=\"gtx-trans\">&nbsp;</div>",
+          "correct": true
+        },
+        {
+          "answer": "was trained for several months before it was ready to play with full power",
+          "correct": false
+        }
+      ],
+      "comments": []
+    }
+  ],
+  "updatedAt": 1659128372196
+}

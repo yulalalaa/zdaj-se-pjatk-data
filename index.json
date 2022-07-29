@@ -1,0 +1,142 @@
+{
+  "$schema":"schemas/index.json",
+  "updatedAt": 1659128372196,
+  "pages": [
+    {
+      "title": "Administrowanie bazami danych",
+      "id": "abd"
+    },
+    {
+      "title": "Aplikacje Baz Danych",
+      "id": "apbd"
+    },
+    {
+      "title": "Algorytmy i Struktury Danych - edux",
+      "id": "asd"
+    },
+    {
+      "title": "Automaty i Gramatyki",
+      "id": "aug"
+    },
+    {
+      "title": "Bezpieczeństwo Systemów Informatycznych",
+      "id": "bsi"
+    },
+    {
+      "title": "Bezpieczeństwo Systemów Informatycznych (ANG) - 2012",
+      "id": "bsi_ang_2012"
+    },
+    {
+      "title": "Bezpieczeństwo Systemów Informatycznych 2018",
+      "id": "bsi_ang_2018"
+    },
+    {
+      "title": "Fizyka Kolos1 (angielska)",
+      "id": "fiz"
+    },
+    {
+      "title": "Fizyka k1",
+      "id": "fizk1"
+    },
+    {
+      "title": "Fizyka k2",
+      "id": "fizk2"
+    },
+    {
+      "title": "Grafika Komputerowa",
+      "id": "grk"
+    },
+    {
+      "title": "Hurtownie danych i aplikacje OLAP",
+      "id": "hur"
+    },
+    {
+      "title": "Matematyka Dyskretna 2020",
+      "id": "mad"
+    },
+    {
+      "title": "Matematyka Dyskretna 1 - 2020, Gakko",
+      "id": "mad1"
+    },
+    {
+      "title": "Matematyka Dyskretna - edux - 2012 ZIMA",
+      "id": "mad2012a"
+    },
+    {
+      "title": "Modelowanie i Analiza Systemów informacyjnych",
+      "id": "mas"
+    },
+    {
+      "title": "Modeling and Analysis of IT Systems",
+      "id": "modeling_and_analysis_of_it_systems"
+    },
+    {
+      "title": "Legal foundations of business",
+      "id": "ppb_ang"
+    },
+    {
+      "title": "Prawne aspekty zarządzania",
+      "id": "prawne_aspekty_zarządzania"
+    },
+    {
+      "title": "Relacyjne Bazy Danych",
+      "id": "rbd"
+    },
+    {
+      "title": "RBD egz 2016 zaoczne",
+      "id": "rbdz"
+    },
+    {
+      "title": "Rachunkowość Podmiotow Gospodarczych",
+      "id": "rpg"
+    },
+    {
+      "title": "Systemy Baz Danych",
+      "id": "sbd"
+    },
+    {
+      "title": "Systemy Baz Danych zima 2015",
+      "id": "sbd2015"
+    },
+    {
+      "title": "Sieci Komputerowe - ang - egzamin ",
+      "id": "skj"
+    },
+    {
+      "title": "Sieci Komputerowe 1",
+      "id": "sko1-skj"
+    },
+    {
+      "title": "Sieci Komputerowe 2 - edu - 2011 ZIMA",
+      "id": "sko2"
+    },
+    {
+      "title": "Systemy operacyjne",
+      "id": "sop"
+    },
+    {
+      "title": "Technika i Architektura Komputerów",
+      "id": "tak"
+    },
+    {
+      "title": "Technika i Architekture Komputerów (TAK) [ENG]",
+      "id": "tak_ang"
+    },
+    {
+      "title": "Technologie Internetu",
+      "id": "tin"
+    },
+    {
+      "title": "Wstęp do systemów informacyjnych",
+      "id": "wsi"
+    },
+    {
+      "title": "ZBD - pytania od studentów",
+      "id": "zbd"
+    },
+    {
+      "title": "Zarządzanie projektem informatycznym (ZPR)",
+      "id": "zpr"
+    }
+  ]
+}

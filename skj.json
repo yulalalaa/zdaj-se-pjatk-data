@@ -1,0 +1,312 @@
+{
+  "$schema":"schemas/subject.json",
+  "title": "Sieci Komputerowe - ang - egzamin ",
+  "id": "skj",
+  "data": [
+    {
+      "question": "<span>TEMPEST protects against:</span>",
+      "id": 2628,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>sniffing at link layer&nbsp;</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>sniffing at physical layer</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>spoofing at physical layer</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>TEMPEST is not a protection technology</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Processing a recursive DNS query, a contacted DNS server is responsible for providing the answer for the client. It may be necessary that the server communicates with other servers to get the asnwer.</span>",
+      "id": 2629,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>No</span>",
+          "correct": false
+        },
+        {
+          "answer": "Yes",
+          "correct": true
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>&nbsp;A protocol used to automatically configure IP networking for a host is called:</span>",
+      "id": 2630,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>DNS&nbsp;</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>DHCP</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>SNMP</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>DHCM&nbsp;</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>If on one link, at the same time, in the same place and on the same frequency, multiple devices communicate, than what is the type of multiplexing used? Choose the acronym.</span>",
+      "id": 2631,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>FDM</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>TDM&nbsp;</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>CDM</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>WDM</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "IPSec provides security in layer",
+      "id": 2632,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "transport",
+          "correct": false
+        },
+        {
+          "answer": "network",
+          "correct": true
+        },
+        {
+          "answer": "application",
+          "correct": false
+        },
+        {
+          "answer": "link",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>&nbsp;How many bits are used in an IPv6 address</span>",
+      "id": 2633,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>1024</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>128&nbsp;</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>64</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>256&nbsp;</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>&nbsp;Window mechanism is used in</span>",
+      "id": 2634,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>TCP</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>OSPF</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>IP&nbsp;</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>UDP</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>Internet telephony usually uses</span>",
+      "id": 2635,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>HTTP</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>UDP</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>TCP</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>IPvoice</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>What services does an IP network offer for applications?&nbsp;</span>",
+      "id": 2636,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>an unreliable \"best-effort\" service</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>a communication service with guaranteed minimal throughput</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>a reliable TCP service</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>a communication service with guaranteed upper bounds on delay</span>",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "<span>In the physical layer we are talking about (…)</span>",
+      "id": 2637,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "<span>frames&nbsp;</span>",
+          "correct": false
+        },
+        {
+          "answer": "<span>bits</span>",
+          "correct": true
+        },
+        {
+          "answer": "<span>segments&nbsp;</span><br><br>",
+          "correct": false
+        },
+        {
+          "answer": "packets",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "PGP używa kluczy:",
+      "id": 2642,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "kluczy Geanta",
+          "correct": false
+        },
+        {
+          "answer": "żadna z pozostałych odpowiedzi nie jest poprawna",
+          "correct": true
+        },
+        {
+          "answer": "symetrycznych",
+          "correct": false
+        },
+        {
+          "answer": "jednokrotnych",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Co opisuje uzycie gniazd przez serwer w niezawodnej, połączeniowej komunikacji z klientem?",
+      "id": 2643,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "gniazdo serwera rozpoczyna połączenie",
+          "correct": false
+        },
+        {
+          "answer": "serwer oczekuje połączeń od klientów",
+          "correct": true
+        },
+        {
+          "answer": "gniazdo klienta musi istnieć przed gniazdem serwera",
+          "correct": false
+        },
+        {
+          "answer": "port jednoznacznie determinuje gniazdo serwera",
+          "correct": false
+        }
+      ],
+      "comments": []
+    },
+    {
+      "question": "Uwierzytelnianie ma na celu:",
+      "id": 2644,
+      "numberOfComments": 0,
+      "answers": [
+        {
+          "answer": "potwierdzenie wiarygodności uzytkownika",
+          "correct": false
+        },
+        {
+          "answer": "sprawdzenie integralności przesyłanego komunikatu",
+          "correct": false
+        },
+        {
+          "answer": "sprawdzenie uprawnień użytkownika",
+          "correct": false
+        },
+        {
+          "answer": "sprawdzenie tożsamości użytkownika",
+          "correct": true
+        }
+      ],
+      "comments": []
+    }
+  ],
+  "updatedAt": 1659128372196
+}
